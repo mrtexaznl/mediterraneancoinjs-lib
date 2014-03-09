@@ -1,6 +1,6 @@
 module.exports = {
   mainnet: {
-    addressVersion: 0,
+    addressVersion: 51,
     p2shVersion: 5,
     hdVersions: {
       pub: 0x0488B21E,
